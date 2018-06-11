@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9987aca0-6795-4f3b-83bb-edefd2d73fca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="128" column="21" lean-forward="true" selection-start-line="128" selection-start-column="21" selection-end-line="128" selection-end-column="21" />
+            <state relative-caret-position="172">
+              <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TesteEmail.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TesteEmail.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="226">
+              <caret line="17" column="145" selection-start-line="17" selection-start-column="145" selection-end-line="17" selection-end-column="145" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,10 +87,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Pagina/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pagina/SendEmail.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" />
         <option value="$PROJECT_DIR$/testng.fxml" />
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" />
       </list>
     </option>
   </component>
@@ -267,9 +267,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TesteEmail - 2018.06.08 at 15h 01m 26s.xml">
-      <configuration name="TesteEmail" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TesteEmail - 2018.06.08 at 15h 02m 09s.xml">
       <configuration name="TesteEmail" configurationId="TestNG" />
     </history-entry>
@@ -297,6 +294,9 @@
     <history-entry file="C__Users_gustavo_santos_IdeaProjects_emailTest1_testng_xml - 2018.06.11 at 10h 45m 25s.xml">
       <configuration name="C:/Users/gustavo.santos/IdeaProjects/emailTest1/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_gustavo_santos_IdeaProjects_emailTest1_testng_xml - 2018.06.11 at 15h 24m 53s.xml">
+      <configuration name="C:/Users/gustavo.santos/IdeaProjects/emailTest1/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,17 +309,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.45990923" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" x="22" y="312" width="1322" height="104" id="Event Log" order="1" sideWeight="0.5408472" side_tool="true" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" x="22" y="312" width="1322" height="104" id="Event Log" order="1" sideWeight="0.5416036" side_tool="true" visible="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4591528" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.45839638" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -333,7 +333,6 @@
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.45990923" weight="0.32838285" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -571,16 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/test-classes/Test/TesteEmail.class" />
     <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,8 +580,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="128" column="21" lean-forward="true" selection-start-line="128" selection-start-column="21" selection-end-line="128" selection-end-column="21" />
+        <state relative-caret-position="172">
+          <caret line="124" column="35" selection-start-line="124" selection-start-column="35" selection-end-line="124" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="17" column="145" selection-start-line="17" selection-start-column="145" selection-end-line="17" selection-end-column="145" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
