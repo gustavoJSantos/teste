@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9987aca0-6795-4f3b-83bb-edefd2d73fca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver_linux64/chromedriver" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,7 +18,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="174">
               <caret line="100" column="78" lean-forward="true" selection-start-line="100" selection-start-column="78" selection-end-line="100" selection-end-column="78" />
             </state>
           </provider>
@@ -379,7 +378,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32838285" />
@@ -390,7 +388,7 @@
       <window_info anchor="bottom" x="22" y="312" width="1322" height="104" id="Event Log" order="1" sideWeight="0.5416036" side_tool="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.45839638" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.45839638" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -661,7 +659,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="174">
           <caret line="100" column="78" lean-forward="true" selection-start-line="100" selection-start-column="78" selection-end-line="100" selection-end-column="78" />
         </state>
       </provider>
