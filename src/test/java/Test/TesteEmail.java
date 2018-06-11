@@ -13,24 +13,30 @@ public class TesteEmail {
     static Login login;
     static SendEmail sendEmail;
 
-    @BeforeClass
-    public static void setUpBeforeClass() throws Exception{
+//    @BeforeClass
+//    public static void setUpBeforeClass() throws Exception{
+//        //System.setProperty("webdriver.chrome.driver","C:\Users\gustavo.santos\IdeaProjects\emailTest1\chromedriver_win32\\chromedriver.exe");
+//        System.setProperty("webdriver.chrome.driver", "chromedriver");
+//        driver  = new ChromeDriver();
+//        driver.get("https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin");
+//        login = new Login(driver);
+//        sendEmail = new SendEmail(driver);
+//    }
+
+//    @AfterClass
+//    public static void tearDownAfterClass() throws Exception{
+//        driver.close();
+//
+//    }
+
+    @Test
+    public void test() throws Exception {
         //System.setProperty("webdriver.chrome.driver","C:\Users\gustavo.santos\IdeaProjects\emailTest1\chromedriver_win32\\chromedriver.exe");
-        System.setProperty("webdriver.chrome.driver", "chromedriver");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         driver  = new ChromeDriver();
         driver.get("https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin");
         login = new Login(driver);
         sendEmail = new SendEmail(driver);
-    }
-
-    @AfterClass
-    public static void tearDownAfterClass() throws Exception{
-        driver.close();
-
-    }
-
-    @Test
-    public void test() throws Exception {
         login.preencherCampos();
         sendEmail.preencherCampos();
     }

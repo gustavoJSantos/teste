@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9987aca0-6795-4f3b-83bb-edefd2d73fca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chromedriver_34" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="TesteEmail.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            <state relative-caret-position="141">
+              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,7 +38,11 @@
       </file>
       <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
@@ -90,8 +93,8 @@
         <option value="$PROJECT_DIR$/src/test/java/Pagina/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/Pagina/SendEmail.java" />
         <option value="$PROJECT_DIR$/testng.fxml" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" />
       </list>
     </option>
@@ -139,6 +142,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="emailTest1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emailTest1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Pagina" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="emailTest1" type="b2602c69:ProjectViewProjectNode" />
@@ -325,9 +336,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TesteEmail - 2018.06.08 at 15h 04m 21s.xml">
-      <configuration name="TesteEmail" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TesteEmail - 2018.06.08 at 15h 05m 58s.xml">
       <configuration name="TesteEmail" configurationId="TestNG" />
     </history-entry>
@@ -355,6 +363,9 @@
     <history-entry file="TesteEmail - 2018.06.11 at 16h 20m 36s.xml">
       <configuration name="TesteEmail" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TesteEmail - 2018.06.11 at 16h 30m 13s.xml">
+      <configuration name="TesteEmail" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,11 +389,11 @@
       <window_info anchor="bottom" x="22" y="312" width="1322" height="104" id="Event Log" order="1" sideWeight="0.5416036" side_tool="true" weight="0.32838285" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.45839638" visible="true" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.45839638" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -630,9 +641,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/test-classes/Test/TesteEmail.class" />
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -640,10 +648,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        <state relative-caret-position="141">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
