@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9987aca0-6795-4f3b-83bb-edefd2d73fca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/TesteEmail.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+              <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -584,7 +581,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Test/TesteEmail.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
