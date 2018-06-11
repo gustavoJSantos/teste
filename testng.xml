@@ -1,0 +1,9 @@
+<testng-results>
+    <suite thread-count="1" verbose="1" name = "Suite Principal">
+        <test name="Primeiro Teste para enviar email" preserve-order="true">
+            <classes>
+                <class name="Test.TesteEmail"></class>
+            </classes>
+        </test>
+    </suite>
+</testng-results>
