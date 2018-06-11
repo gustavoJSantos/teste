@@ -32,7 +32,7 @@ public class TesteEmail {
     @Test
     public void test() throws Exception {
         //System.setProperty("webdriver.chrome.driver","C:\Users\gustavo.santos\IdeaProjects\emailTest1\chromedriver_win32\\chromedriver.exe");
-        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver");
         driver  = new ChromeDriver();
         driver.get("https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin");
         login = new Login(driver);
